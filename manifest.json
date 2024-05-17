@@ -1,0 +1,21 @@
+{
+    "name" : "JEMDC",
+    "short_name" : "JEMDC",
+    "start_url" : ".",
+    "display" : "standalone",
+    "theme_color" : "red",
+    "background_color" : "blue",
+    "description" : "Kahit ako lang",
+    "serviceworker" : "serviceworker.js",
+    "icons" : [{
+        "src" : "web/icon-192.png",
+        "sizes" : "192x192",
+        "type" : "image/png"
+    },
+    {
+        "src" : "web/icon-192.png",
+        "sizes" : "192x192",
+        "type" : "image/png"
+    }
+]
+}
